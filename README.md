@@ -31,7 +31,7 @@ It is designed to feel fast, minimal, and familiar-like a modern Instagram-style
 
 
   ---
-  🛠️ Tech Stack
+🛠️ Tech Stack
 
 * Frontend: React, Vite, TypeScript
 * Styling: Tailwind CSS / CSS Modules
@@ -40,7 +40,7 @@ It is designed to feel fast, minimal, and familiar-like a modern Instagram-style
 
 
   ---
-  Inspiration
+🧠 Inspiration
 
 Snapgram was built to explore how modern social platforms work under the hood-focusing on:
 
@@ -51,10 +51,49 @@ Snapgram was built to explore how modern social platforms work under the hood-fo
 
 
   ---
-  ⚙️ Installation
+⚙️ Installation
 
- Bash
- git clone <https://github.com/Asheeyah23/Snapgram.git>
-cd snapgram
+ 
+ <https://github.com/Asheeyah23/Snapgram.git>
 
 
+
+---
+
+src/
+
+ ├── components/
+ 
+ ├── pages/
+ 
+ ├── hooks/
+ 
+ ├── services/
+ 
+ ├── utils/
+ 
+ └── App.tsx
+
+ ---
+ 📌 Future Improvements
+
+* Real-time chat 💬
+* Stories feature ⏳
+* Notifications 🔔
+* Dark mode 🌙
+* Improved recommendation feed 🧠
+
+
+  ---
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+
+---
+👩‍💻 Author
+
+Built with ❤️ by the Ashiah Ibrahim
+
+
+ ---
