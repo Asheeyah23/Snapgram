@@ -53,7 +53,8 @@ Snapgram was built to explore how modern social platforms work under the hood-fo
   ---
   ⚙️ Installation
 
-  git clone <your-repo-link>
+ Bash
+ git clone <https://github.com/Asheeyah23/Snapgram.git>
 cd snapgram
 
 
