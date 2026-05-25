@@ -54,7 +54,7 @@ Snapgram was built to explore how modern social platforms work under the hood-fo
 ⚙️ Installation
 
  
- <https://github.com/Asheeyah23/Snapgram.git>
+ <https://git.shakespeare.diy/npub18wx4rugeveh3rcdl47thvp64x8mqxrrdde453gqak97vj5suclzqmauhmp/snapgram.git>
 
 
 
